@@ -3,6 +3,7 @@ public class conta {
 
     private double saldo;   
     private String numero;
+    private String banco;
     
     public conta (double saldo, String numero){
         this.saldo = saldo;
